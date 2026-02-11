@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "Make A Move",
+  "base_artist": "EMMA WAHLIN",
+  "createdAt": "2026-02-11T12:43:05.680673Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Make a Move Too Soon",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/01_Never_Make_a_Move_Too_Soon_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Make a Move Too Soon",
+      "artist": "B.B. King feat. The Crusaders",
+      "has_synced": false,
+      "path": "select/02_Never_Make_a_Move_Too_Soon_B.B._King_feat._The_Crusaders.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Make A Move On Me",
+      "artist": "Olivia Newton-John",
+      "has_synced": false,
+      "path": "select/03_Make_A_Move_On_Me_Olivia_Newton-John.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Make A Move",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/04_Make_A_Move_Cypress_Hill.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Make A Move",
+      "artist": "DMX",
+      "has_synced": true,
+      "path": "select/05_Make_A_Move_DMX.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Make a Move",
+      "artist": "Incubus",
+      "has_synced": true,
+      "path": "select/06_Make_a_Move_Incubus.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Make A Move (Album Version)",
+      "artist": "Incubus",
+      "has_synced": true,
+      "path": "select/07_Make_A_Move_(Album_Version)_Incubus.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wake Up (Make a Move)",
+      "artist": "Lostprophets",
+      "has_synced": true,
+      "path": "select/08_Wake_Up_(Make_a_Move)_Lostprophets.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wake Up (Make a Move) (Nebuchednezzar mix)",
+      "artist": "Lostprophets",
+      "has_synced": false,
+      "path": "select/09_Wake_Up_(Make_a_Move)_(Nebuchednezzar_mix)_Lostprophets.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wake Up (Make a Move) (radio edit)",
+      "artist": "Lostprophets",
+      "has_synced": true,
+      "path": "select/10_Wake_Up_(Make_a_Move)_(radio_edit)_Lostprophets.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Make a Move on Me",
+      "artist": "Juliana Hatfield",
+      "has_synced": false,
+      "path": "select/11_Make_a_Move_on_Me_Juliana_Hatfield.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Make a Move",
+      "artist": "Icon for Hire",
+      "has_synced": true,
+      "path": "select/12_Make_a_Move_Icon_for_Hire.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Make a Move",
+      "artist": "Beasts With No Name",
+      "has_synced": false,
+      "path": "select/13_Make_a_Move_Beasts_With_No_Name.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Better Make A Move",
+      "artist": "The Romantics",
+      "has_synced": true,
+      "path": "select/14_Better_Make_A_Move_The_Romantics.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Better Make A Move",
+      "artist": "Romantics",
+      "has_synced": true,
+      "path": "select/15_Better_Make_A_Move_Romantics.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "If I Could Make a Living",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/16_If_I_Could_Make_a_Living_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "If I Could Make a Living (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/17_If_I_Could_Make_a_Living_(Album_Version)_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Let’s Make a Memory",
+      "artist": "Joshua Hedley",
+      "has_synced": false,
+      "path": "select/18_Let’s_Make_a_Memory_Joshua_Hedley.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Make A Little",
+      "artist": "Midland",
+      "has_synced": true,
+      "path": "select/19_Make_A_Little_Midland.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Make a Wish",
+      "artist": "Nick O'Brien",
+      "has_synced": true,
+      "path": "select/20_Make_a_Wish_Nick_O'Brien.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "You Can't Make A Heart Love Somebody",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/21_You_Can't_Make_A_Heart_Love_Somebody_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "You Can't Make A Heart Love Somebody (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/22_You_Can't_Make_A_Heart_Love_Somebody_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Time to Make a Plan (Not Getting Younger)",
+      "artist": "Kurt Travis",
+      "has_synced": true,
+      "path": "select/23_Time_to_Make_a_Plan_(Not_Getting_Younger)_Kurt_Travis.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Time To Make A Change",
+      "artist": "Goldie Lookin Chain",
+      "has_synced": false,
+      "path": "select/24_Time_To_Make_A_Change_Goldie_Lookin_Chain.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "U Make A Ninja Wanna Fuck",
+      "artist": "Die Antwoord",
+      "has_synced": false,
+      "path": "select/25_U_Make_A_Ninja_Wanna_Fuck_Die_Antwoord.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "One Kiss Don't Make A Summer",
+      "artist": "Lucky Soul",
+      "has_synced": false,
+      "path": "select/26_One_Kiss_Don't_Make_A_Summer_Lucky_Soul.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Make a Fool of Me All Night - Bonus Track",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/27_Make_a_Fool_of_Me_All_Night_-_Bonus_Track_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Make A Fool Of Me All Night",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/28_Make_A_Fool_Of_Me_All_Night_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Make a Way",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/29_Make_a_Way_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Everybody Oughta Make a Change",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/30_Everybody_Oughta_Make_a_Change_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Make Move$",
+      "artist": "Pai Napple",
+      "has_synced": false,
+      "path": "select/31_Make_Move$_Pai_Napple.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Make Move$ (feat. 4TUNAT, Jaaxx & Truent)",
+      "artist": "Pai Napple",
+      "has_synced": true,
+      "path": "select/32_Make_Move$_(feat._4TUNAT,_Jaaxx_&_Truent)_Pai_Napple.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Make A Move",
+      "artist": "EMMA WAHLIN",
+      "has_synced": false,
+      "path": "select/pl_01_Make_A_Move_EMMA_WAHLIN.txt"
+    }
+  ]
+}
