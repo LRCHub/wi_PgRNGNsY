@@ -1,0 +1,72 @@
+# EMMA WAHLIN – Make A Move
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Been feeling like I'm all alone
+Just wanna find somewhere to go
+with you
+I can’t dance with a broken
+heart, heart, heart, heart
+Needed you from the very start,
+start, start, start
+Take a chance, yeah,
+I'm waiting
+Oh,
+where you gonna take me tonight
+I'm waiting on you, you,
+you, you, you
+To come and make a move, move,
+move, move
+So what you gonna do, do,
+do, do, do
+Just come and make a move, move,
+move, move
+Just come and make a
+Move, move, move
+Just come and make a
+Move, move, move
+Move, move, move, move
+We’re wasting time,
+the night is young
+Just you and I until the sun
+I can't dance
+with a broken heart,
+heart, heart, heart
+Needed you from the very start,
+start, start, start
+Take a chance, yeah,
+I'm waiting
+Oh,
+where you gonna take me tonight
+I'm waiting on you, you,
+you, you, you
+To come and make a move, move,
+move, move
+So what you gonna do, do,
+do, do, do
+Just come and make a move, move,
+move, move
+Just come and make a
+Move, move, move
+Move, move, move, move
+Move, move, move
+Just come and make a
+Move, move, move
+Move, move, move, move
+Move, move, move
+Just come and make a
+Under the lights
+with you tonight
+Under the lights,
+it feels so right
+Just come and make a
+Move, move, move
+Move, move, move, move
+Move, move, move
+Just come and make a
+Move, move, move
+Move, move, move, move
+Move, move, move
+Move, move, move, move
+```
